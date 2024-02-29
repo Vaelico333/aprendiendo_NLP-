@@ -1,0 +1,8 @@
+
+*.pdf
+word2vec/model_100.bin
+word2vec/frankenstein.bin
+word2vec/minecraft_model.txt
+word2vec/minecraft.model
+similitud/SBW-vectors-300-min5.txt
+oghma
